@@ -2,11 +2,11 @@
  
 # Features
 
-> Remove One Tap From Server
+.> Remove One Tap From Server
 
-> Camforce (Force Fpp For Vehicle Only) 
+.> Camforce (Force Fpp For Vehicle Only) 
 
-> AntiBunnyhop (Stop Jumping Spam From Server)
+.> AntiBunnyhop (Stop Jumping Spam From Server)
 
 # Note :-
 
